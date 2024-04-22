@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 标准项目目录
+| 文件夹     | 作用       |
+|------------|------------|
+| apis       | 接口       |
+| asserts    | 静态资源   |
+| components | 通用组件   |
+| pages      | 页面组件   |
+| router     | 路径表     |
+| store      | Redux 状态 |
+| utils      | 工具函数   |
+
 ## Available Scripts
 
 In the project directory, you can run:
